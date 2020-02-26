@@ -94,4 +94,3 @@
     \textsc{#1 \secondline{#2}} & \begin{large} \textsc{#3} \end{large} \secondline{#4}
   \end{tabularx}\\\bigskip
 }
-
