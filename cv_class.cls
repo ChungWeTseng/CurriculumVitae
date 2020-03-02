@@ -94,3 +94,9 @@
     \textsc{#1 \secondline{#2}} & \begin{large} \textsc{#3} \end{large} \secondline{#4}
   \end{tabularx}\\\bigskip
 }
+
+\newcommand{\skill}[2]{
+  \begin{tabularx}{\textwidth}{L R}
+    \textsc{#1} & {#2}
+  \end{tabularx}\\\medskip
+}
