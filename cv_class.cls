@@ -13,10 +13,12 @@
 % Define Colors
 % ----------------------------------
 \RequirePackage[dvipsnames]{xcolor}
-\definecolor{black}{RGB}{13,32,89}
+\definecolor{white}{RGB}{245,245,245}
+\definecolor{black}{RGB}{30,30,65}
 \definecolor{blue}{RGB}{65,105,225}
   % Document color
 \color{black}
+\pagecolor{white}
 
 % Add icons
 % ----------------------------------
