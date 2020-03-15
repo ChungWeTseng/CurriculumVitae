@@ -12,8 +12,8 @@
 
 % Define Colors
 % ----------------------------------
-\RequirePackage[dvipsnames]{xcolor}
-\definecolor{white}{RGB}{245,245,245}
+\RequirePackage{color}
+\definecolor{white}{RGB}{250,250,250}
 \definecolor{black}{RGB}{30,30,65}
 \definecolor{blue}{RGB}{65,105,225}
   % Document color
@@ -26,9 +26,8 @@
 
 % Define Font Family
 % ----------------------------------
+\RequirePackage{kmath,kerkis}
 \RequirePackage[T1]{fontenc}
-\RequirePackage[utf8]{inputenc}
-\RequirePackage{tgbonum}
 
 \linespread{1.2}
 
