@@ -76,6 +76,10 @@
   \faLinkedinSquare\space#1
 }
 
+\newcommand{\github}[1]{
+  \faGithub\space#1
+}
+
 \newcommand{\email}[1]{
   \faEnvelope\space#1
 }
