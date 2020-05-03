@@ -72,6 +72,10 @@
   \faMobile\space#1
 }
 
+\newcommand{\website}[1]{
+  \faGlobe\space#1
+}
+
 \newcommand{\linkedin}[1]{
   \faLinkedinSquare\space#1
 }
