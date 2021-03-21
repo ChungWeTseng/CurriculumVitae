@@ -43,7 +43,7 @@
   {}{0em}
   {}
 
-\titlespacing{\section}{0pt}{*3}{*3}
+\titlespacing{\section}{0pt}{*3}{*2.5}
 
 \newcommand{\name}[1]{
   \centerline{\Huge{\textbf{\textcolor{blue}{#1\bigskip}}}}
